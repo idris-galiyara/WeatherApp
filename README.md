@@ -31,5 +31,7 @@ To start app please follow below commands<br/>
 
 > npm install<br/>
 > npm run<br/>
-> // for unit test command<br/>
+> // to run unit test<br/>
 > npm run test:unit <br/>
+>Postman Collection
+>https://www.getpostman.com/collections/ee6904950be2ac4a83ca
