@@ -9,7 +9,7 @@
 >DB = mongo<br/>
 <br/>
 
-Please note that in order to start this app you will require a ***'.env'*** file in the root folder of app.<br/>
+Please note that in order to start this app you will require a ***'.env'*** file in the root folder of app and in test folder<br/>
 To Save logs to database you will need to provide your machine/server connection string to below path
 
 > dataAccessLayer > MongoDB > config > config.js
